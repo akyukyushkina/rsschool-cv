@@ -26,3 +26,4 @@ Website layout courses FROM 0 TO 1
 * e-mail: akyukyushkina@gmail.com
 * telegram: @akyukyushkina
 * skype: akyuyushkina
+* linkedIn: linkedin.com/in/anastacia-kukushkina-904778182
